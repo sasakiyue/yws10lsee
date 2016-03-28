@@ -1,3 +1,3 @@
-#!bin/bash
+#!/bin/bash
 
-. mac_firstcommit.sh 
+source mac_firstcommit.sh 
