@@ -20,5 +20,6 @@ public class Send {
 
     channel.close(); //5.Channel閉じる
     connection.close(); //6.Connection閉じる
+    # build test
   }
 }
